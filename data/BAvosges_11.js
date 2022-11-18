@@ -1,0 +1,1 @@
+var json_BAvosges_11 = {"type":"FeatureCollection","name":"BAvosges_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nom complet de l association":null},"geometry":{"type":"Point","coordinates":[6.529327997460778,48.20019340322294]}}]}
